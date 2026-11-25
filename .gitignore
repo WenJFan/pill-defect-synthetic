@@ -1,0 +1,8 @@
+data/
+work/
+runs/
+*.pt
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+.venv/

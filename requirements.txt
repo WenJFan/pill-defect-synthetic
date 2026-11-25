@@ -1,0 +1,12 @@
+torch
+torchvision
+diffusers>=0.30
+transformers
+accelerate
+peft>=0.12
+opencv-python-headless
+scikit-learn
+pyyaml
+pillow
+numpy
+pandas
